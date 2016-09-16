@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1471017004 source:c:\users\computador 1\desktop\projeto\mudarip\main.cpp
+	"IpChange.h"
+
+1471016936 c:\users\computador 1\desktop\projeto\mudarip\ipchange.h
+	<iostream>
+	<stdio.h>
+	<winsock2.h>
+	<iphlpapi.h>
+
+1471017185 source:c:\users\computador 1\desktop\projeto\mudarip\ipchange.cpp
+	"IpChange.h"
+	<errno.h>
+
+1471017589 source:d:\jefferson\projetos\mudarip\ipchange.cpp
+	"IpChange.h"
+	<errno.h>
+
+1473518698 d:\jefferson\projetos\mudarip\ipchange.h
+	<iostream>
+	<stdio.h>
+	<winsock2.h>
+	<iphlpapi.h>
+
+1471017004 source:d:\jefferson\projetos\mudarip\main.cpp
+	"IpChange.h"
+
